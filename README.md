@@ -9,7 +9,7 @@
 - [操作系统之内存管理](http://mooc.study.163.com/course/HIT-1000003007#/info)
 - [操作系统之外设与文件系统](http://mooc.study.163.com/course/HIT-1000002009#/info)
 
-实验手册：[GitBook](https://traitorousfc.gitbooks.io/hit-oslab-manual/content/index.html)
+实验手册：[GitBook](https://hoverwinter.gitbooks.io/hit-oslab-manual/content/prewords.html)
 
 ##说明
 
